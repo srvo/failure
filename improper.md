@@ -6,5 +6,5 @@ The reporting that stems from this legislation is helpful to the study of instit
 
 Looking just at the headline level, these payments comprise a significant percentage of total government spending.
 
-![Improper Payments by US Government, retreived from paymentaccuracy.gov 5 November 2017](https://imgur.com/a/W8IlT)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/W8IlT"><a href="//imgur.com/W8IlT">Improper Payments by the United States Government</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
