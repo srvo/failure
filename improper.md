@@ -10,8 +10,7 @@ These payments are a meaningful percentage of total government spending every ye
 
 The data is broken down by agency and by program. The reported improper payment rates vary quite a bit by department. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZjCq4Bg65T92SKe4wdmIj4VnVttukymilfRmTE1oA4sMWCsDtA4AgzJe-EorwPhZZs_knCOY-HSIA/pubchart?oid=1752189540&amp;format=interactive"></iframe>
-
+![Improper Payments by Department, 2004-2016](failure/pics/Improper Payments 2004-2016 by agency.png)
 
 Resources made available on the US Government's [paymentaccuracy.gov](https://paymentaccuracy.gov/resources/) enumerate the largest government programs by expenditure and relates total and improper expenditures to each other through time. 
 
