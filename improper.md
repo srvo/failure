@@ -4,6 +4,7 @@ The 2002 Improper Payments Information Act and subsequent legislation have manda
 
 The reporting that stems from this legislation is helpful to the study of institutional failure. Resources made available on the US Government's [paymentaccuracy.gov](https://paymentaccuracy.gov/resources/) enumerate the largest government programs by expenditure and relates total and improper expenditures to each other through time. 
 
-Looking just at the headline level, these payments comprise a significant percentage of total government spending.
+These payments are a meaningful percentage of total government spending.
 
-![Improper Payments](failure/Screen Shot 2017-11-05 at 3.42.54 PM.png)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/W8IlT"><a href="//imgur.com/W8IlT">Improper Payments by the United States Government</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
