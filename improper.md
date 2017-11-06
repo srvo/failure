@@ -44,4 +44,8 @@ Medicaid reported improper payments of $36 Billion in FY 2016, 10.5% of their $3
 
 ### Earned Income Tax Credit
 
+The Earned Income Tax Credit program reported $16.8 billion in improper payments in 2016, 24% of their $69.8 billion in total outlays. 
+
+Restructuring the EITC [was suggested](https://taxpayeradvocate.irs.gov/Media/Default/Documents/2016-ARC/ARC16_Volume1_LR_02_TaxReform.pdf) by the IRS Taxpayer Advocate in 2016. 
+
 The Council on Budget and Policy Priorities [noted that](https://www.cbpp.org/research/federal-tax/reducing-overpayments-in-the-earned-income-tax-credit) "The EITC is one of the most complex elements of the tax code that individual taxpayers face. The IRS instructions for the credit are nearly twice as long as the 13 pages of instructions for the Alternative Minimum Tax, which is widely viewed as difficult"
