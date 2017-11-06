@@ -12,7 +12,9 @@ These payments are a meaningful proportion of total government spending every ye
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/W8IlT"><a href="//imgur.com/W8IlT">Improper Payments by the United States Government</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-The disclosures issued by various branches of the federal government are [usefully aggregated](https://paymentaccuracy.gov/) to allow for exploration. Reported improper payment rates vary significantly by agency. 
+The disclosures issued by various branches of the federal government are [usefully aggregated](https://paymentaccuracy.gov/) to allow for exploration. 
+
+Reported improper payment rates vary significantly by agency. 
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/iveCU"><a href="//imgur.com/iveCU"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
