@@ -10,14 +10,14 @@ The Institutional Failure Index is personal attempt to build exactly that. Your 
 
 All pages should be considered public notes unless they are marked otherwise. Estimates will be aggregated on this page as they are added. 
 
-###Annual Losses
+### Annual Losses
 
 | Section | Datapoint | Sources | Mean 
 | --- | --- | --- | --- | --- |
-| [Fraud](fraud.md) | Percentage of Annual Spending Lost (All Organizations) | 3 | 5.37% |
+| [Fraud](fraud.md) | Percentage of Annual Spending Lost | 3 | 5.37% |
 | [Pollution](pollution.md) | --- | --- | --- |
 
-###Sources of Estimation Uncertainty
+### Sources of Estimation Uncertainty
 
 * [Improper Payments](improper.md)
 
