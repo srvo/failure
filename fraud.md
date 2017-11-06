@@ -1,13 +1,11 @@
 ## Fraud
 
-It's hard to know how much fraud there is. 
+Roughly one-twentieth of all spending is lost to fraud. 
 
-Perpetrators naturally try to keep their work to themselves, and there is a tendency for estimates of its full reach to sound like nebulous conspiracy theories. 
-
-| Datapoint | Unit | Source | Value
-| Percent of annual spending | % | [2016 Council of Fraud Examiners estimate](https://s3-us-west-2.amazonaws.com/acfepublic/2016-report-to-the-nations.pdf) | 5% |
-| Percent of annual spending | % | [The Financial Cost of Fraud](http://www.pkf.com/media/31640/PKF-The-financial-cost-of-fraud-2015.pdf) global average loss rate | 5.6% |
-| Percent of annual spending | % | [UK Public Sector](https://www.pkf-littlejohn.com/sites/default/files/media/documents/annual_fraud_indicator_report_2016update.pdf) | 5.5% |
+| Datapoint | Source | Value
+| Percent of annual spending | [2016 Council of Fraud Examiners estimate](https://s3-us-west-2.amazonaws.com/acfepublic/2016-report-to-the-nations.pdf) | 5% |
+| Percent of annual spending | [The Financial Cost of Fraud](http://www.pkf.com/media/31640/PKF-The-financial-cost-of-fraud-2015.pdf) global average loss rate | 5.6% |
+| Percent of annual spending | [UK Public Sector](https://www.pkf-littlejohn.com/sites/default/files/media/documents/annual_fraud_indicator_report_2016update.pdf) | 5.5% |
 
 #### Council of Fraud Examiners
 
