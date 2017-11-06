@@ -11,8 +11,8 @@ Roughly one-twentieth of all spending is lost to fraud.
 
 In their [2016 Report to Nations](https://s3-us-west-2.amazonaws.com/acfepublic/2016-report-to-the-nations.pdf), the Council of Fraud Examiners provides the following :
 
-* $6.3 Billion was lost in 2,410 fraud cases that took place in 114 countries. 
-* The Fraud Examiners' estimate of the total cost of fraud for all organizations was 5% of annual spending each year. 
+* $6.3 Billion was lost in the 2,410 fraud cases examined. 
+* The Fraud Examiners' average estimate of the total cost of fraud for all organizations was 5% of annual spending each year. 
 * Median losses from individual frauds that lasted for 60 months or more were estimated at $850,000, and the length of a fraud is directly correlated with its severity. 
 
 #### Center for Counter Fraud Studies at the University of Pourtsmouth and PKF Littlejohn

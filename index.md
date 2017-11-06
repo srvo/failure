@@ -10,10 +10,10 @@ The Institutional Failure Index is personal attempt to build exactly that. Your 
 
 All pages should be considered public notes unless they are marked otherwise. Hard data will be aggregated in this table until it becomes unweildy.  
 
-| Section | Datapoint | Sources | Mean Value
+| Section | Datapoint | Sources | Mean 
 | --- | --- | --- | --- | --- |
-| [Fraud](fraud.md) | Percentage of Annual Spending Lost | 3 | 5.37 |
-| [Pollution](pollution.md) | --- | --- | --- | --- |
+| [Fraud](fraud.md) | Percentage of Annual Spending Lost | 3 | 5.37% |
+| [Pollution](pollution.md) | --- | --- | --- |
 
 * [Improper Payments](improper.md)
 
