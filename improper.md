@@ -2,9 +2,9 @@
 
 "Improper payments" refers to all instances where the government makes payments to the wrong person, in the wrong amount, or for the wrong reason. 
 
-It is distinct from fraud, but useful to examine as an indicator of blind spots that can be productively addressed. 
+It is distinct from fraud, but useful to examine as an indicator of blind spots that can be productively addressed. In the United States, three federal regulations compel agencies to produce disclosures about payments that they term improper. 
 
-In the United States, three federal regulations compel agencies to produce disclosures about these sorts of payments. Those are:
+Those are:
 
 * [The Improper Payments Information Act (IPIA) of 2002.](https://www.gpo.gov/fdsys/pkg/PLAW-107publ300/pdf/PLAW-107publ300.pdf)
 * [The Improper Payments Elimination and Recovery Act (IPERA) of 2010.](https://www.gpo.gov/fdsys/pkg/PLAW-111publ204/pdf/PLAW-111publ204.pdf)
