@@ -2,7 +2,7 @@
 
 "Improper payments" refers to all instances where the government makes payments to the wrong person, in the wrong amount, or for the wrong reason. 
 
-It not a measure of fraud. It's better understood as a measurement of spending with incorrect paperwork attached. If you are interested in improving government services, it's also a useful indicator of blind spots and mechanical issues that could use some constructive attention. 
+It not a measure of fraud. It's better understood as a measurement of spending with incorrect paperwork attached. If you are interested in improving government services, it's a useful indicator of blind spots and mechanical issues that could use some constructive attention. 
 
 In the United States, three federal regulations compel agencies to produce disclosures about payments that they term improper. 
 
