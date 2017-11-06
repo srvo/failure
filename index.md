@@ -1,8 +1,8 @@
 ## The Cost of Failure
 
-It is hard to believe things cannot improve. 
+Things can always get better. But how much does it cost to keep them the way that they are?
 
-But what does it cost to keep them the way they are? This question has been difficult to answer historically, and can only be explored by examining and aggregating a lot of estimates. The purpose of this nascent project is to do exactly that. 
+This question can only be explored by examining and aggregating a lot of estimates. The purpose of this nascent project is to do exactly that. 
 
 Pages examining a wide range of issues are under active construction. 
 
