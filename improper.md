@@ -2,7 +2,9 @@
 
 "Improper payments" refers to all instances where the government makes payments to the wrong person, in the wrong amount, or for the wrong reason. 
 
-It is distinct from fraud, but useful to examine as an indicator of blind spots that can be productively addressed. In the United States, three federal regulations compel agencies to produce disclosures about payments that they term improper. 
+It not a measure of fraud. It's better understood as a measurement of spending with incorrect paperwork attached. If you are interested in improving government services, it's also a useful indicator of blind spots and mechanical issues that could use some constructive attention. 
+
+In the United States, three federal regulations compel agencies to produce disclosures about payments that they term improper. 
 
 Those are:
 
@@ -39,5 +41,7 @@ The Department of Health and Human Services wrote "the most common cause of impr
 Medicaid reported improper payments of $36 Billion in FY 2016, 10.5% of their $345 billion in outlays. The program provides health coverage to low-income people and is one of the largest payers for health care in the United States, with 68 million people covered as of [August 2017](https://www.medicaid.gov/medicaid/program-information/medicaid-and-chip-enrollment-data/report-highlights/index.html). 
 
 [Their 2016 Improper Payment Report](https://www.cms.gov/Research-Statistics-Data-and-Systems/Monitoring-Programs/Medicaid-and-CHIP-Compliance/PERM/Downloads/2016MedicaidandCHIPImproperPaymentReport.pdf) notes that a "Provider Information/Enrollment Error" was responsble for 95.8% of payments termed improper in a sample that they reviewed. This error was asserted to stem from states that are not in compliance with federal regulations. 
+
+### Earned Income Tax Credit
 
 
