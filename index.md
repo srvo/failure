@@ -15,17 +15,11 @@ Your help and interest are both appreciated. [Submit a pull request](https://git
 | [Fraud](fraud.md) | Percentage of Spending | 3 | 5.37% |
 | [Pollution](pollution.md) | --- | --- | --- |
 
-###Forward Looking Costs
+### Forward Looking Costs
 
-| Section | Datapoint | Sources | Mean 
-Climate Change
+| Section | Datapoint | Sources | Mean |
+| Climate Change | --- | ---| --- |
 
 ### Sources of Friction
 
 * [Improper Payments](improper.md)
-
-##### Additional Sections
-
-In roughly descending order of priority.
-
-Transaction fees
