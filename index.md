@@ -1,4 +1,4 @@
-## How Much Does Doing Nothing Cost?
+## How Much Improvement is Possible?
 
 As a regular part of their work, institutions create credible estimates.
 
