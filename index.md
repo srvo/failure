@@ -1,25 +1,33 @@
 ## How Much Does Doing Nothing Cost?
 
-As a regular part of their work, public, private, and nonprofit institutions create credible estimates to help the public see the legitimacy of their actions. 
+As a regular part of their work, institutions create credible estimates.
 
-These data can be found, but are not really seen. 
+These data can be found, but are not really seen. Public, private, and nonprofit groups work in an unneccessary obscurity as a result. 
 
-If forces like fraud, pollution, or climate change were stocks or interest rates, every credible finding and forecast related to them would be aggregated continuously and presented according to some kind of standard. 
+If fraud, pollution, or climate change were stocks or interest rates, every credible finding and forecast related to them would be aggregated continuously and presented according to some kind of standard. 
 
-You could just google "what are modern institutions failing to address" and get an answer rooted and related to granular research that is associated with a cost. 
+The Institutional Failure Index is personal attempt to estimate what's being lost. All pages should be considered public notes unless marked otherwise. 
 
-The Institutional Failure Index is personal attempt to build exactly that. Your help would be lovely and appreciated. [Submit a pull request](https://github.com/srvo/failure/pulls), sign up [for emails](http://eepurl.com/c-hM25), or follow along on [the blog](http://srvo.org/). 
-
-All pages should be considered public notes unless they are marked otherwise. Estimates will be aggregated on this page as they are added. 
+Your help and interest are both appreciated. [Submit a pull request](https://github.com/srvo/failure/pulls), sign up [for brief, interesting emails](http://eepurl.com/c-hM25), read [Sloane's blog](http://srvo.org/). 
 
 ### Annual Losses
 
 | Section | Datapoint | Sources | Mean 
 | --- | --- | --- | --- | --- |
-| [Fraud](fraud.md) | Percentage of Spending Lost | 3 | 5.37% |
+| [Fraud](fraud.md) | Percentage of Spending | 3 | 5.37% |
 | [Pollution](pollution.md) | --- | --- | --- |
 
-### Sources of Estimation Uncertainty
+###Forward Looking Costs
+
+| Section | Datapoint | Sources | Mean 
+Climate Change
+
+### Sources of Friction
 
 * [Improper Payments](improper.md)
 
+##### Additional Sections
+
+In roughly descending order of priority.
+
+Transaction fees

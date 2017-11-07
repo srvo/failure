@@ -1,11 +1,13 @@
 ## Fraud
 
-Roughly one-twentieth of all spending is lost to fraud. 
+Around one-twentieth of all spending is diverted by fraud every year. That rate applies to every organization on earth. 
 
-| Datapoint | Source | Value
-| Percent of annual spending | [2016 Council of Fraud Examiners estimate](https://s3-us-west-2.amazonaws.com/acfepublic/2016-report-to-the-nations.pdf) | 5% |
-| Percent of annual spending | [The Financial Cost of Fraud](http://www.pkf.com/media/31640/PKF-The-financial-cost-of-fraud-2015.pdf) global average loss rate | 5.6% |
-| Percent of annual spending | [UK Public Sector](https://www.pkf-littlejohn.com/sites/default/files/media/documents/annual_fraud_indicator_report_2016update.pdf) | 5.5% |
+The lowest estimate found was 3% of annual spending, and average rates were 5.37% across 3 reports from 2 indepentent sources.  
+
+| Datapoint | Source | Value | Type | 
+| Percent of annual spending | [2016 Council of Fraud Examiners estimate](https://s3-us-west-2.amazonaws.com/acfepublic/2016-report-to-the-nations.pdf) | 5% | Survey average |
+| Percent of annual spending | [PKF, University of Pourtsmouth, Experian](http://www.pkf.com/media/31640/PKF-The-financial-cost-of-fraud-2015.pdf) global average loss rate | 5.6% | 382 Observations
+| Procurement fraud as a % of all spending | [PKF, University of Pourtsmouth, Experian](https://www.pkf-littlejohn.com/sites/default/files/media/documents/annual_fraud_indicator_report_2016update.pdf) | 4.75% | 
 
 #### Council of Fraud Examiners
 
