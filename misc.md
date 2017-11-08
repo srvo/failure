@@ -13,3 +13,10 @@ Poverty $500 billion 2007* Holzer, 2007
 publication year 
 
 Via [Economic Cost of Domestic Hunger](http://us.stop-hunger.org/files/live/sites/stophunger-us/files/HungerPdf/Cost%20of%20Domestic%20Hunger%20Report%20_tcm150-155150.pdf)
+
+Mental health 
+Guns
+Long read on USA as a wonderful country exposed to great trends.
+Construction Fraud
+Construction cost excesses
+[Opioid Epidemic](https://www.thenation.com/article/these-cities-have-a-novel-idea-for-saving-people-from-opioid-overdoses/https://www.thenation.com/article/these-cities-have-a-novel-idea-for-saving-people-from-opioid-overdoses/)
