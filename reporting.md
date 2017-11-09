@@ -16,6 +16,8 @@ I find that issuers that either suffer a decline in local per capita income or i
 
 Issuers with relatively strong ex-ante electoral incentives are particularly likely to suppress negative information. By contrast, issuers that are subject to relatively strong voter oversight are less likely to suppress negative information.
 
+
+
 [Internal Control Deficiencies and Municipal Borrowing Costs](http://onlinelibrary.wiley.com/doi/10.1111/pbaf.12120/full)
 
 There is some evidence that internal controls tend to be stronger in local governments with effective audit committees (Matkin 2010; Rich and Zhang 2014). There is also evidence that governments often do not properly monitor and assess internal controls after they are created (Roberts and Candreva 2006). And, smaller governments are thought to be more susceptible to financial reporting problems like internal control problems (Modlin 2012).
@@ -45,3 +47,19 @@ Non-prot hospitals that produce quarterly, unaudited nancial reports borrow at
 [When transparency pays: The moderating effect of disclosure quality on changes in the cost of debt](https://www.brookings.edu/wp-content/uploads/2017/10/wp34-cuny-dube-updated-10-23-17.pdf)
 
 We find that among issuers with the same beginning credit rating in the same local house price change decile, a one-standard deviation improvement in disclosure quality lowers the odds of downgrade by 47 percent and raises the odds of upgrade by 28 percent. This relation is pronounced for issuers in the two most negative house price change deciles for two consecutive years.
+
+##Further work:
+
+[When Knowledge Is Power: Evidence from the Municipal Bond Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2773890)
+
+I investigate whether access to fundamental information enhances retail investors’ bargaining power, reducing the premium that small municipal bond investors pay over large investors. I find a reduction in this small trade premium after the introduction of an online disclosure repository that lowers retail investors’ information acquisition costs. This finding is limited to issuers whose disclosures are disseminated through the repository. The finding is pronounced for issuers that impose high information acquisition costs on investors ex-ante and those that exhibit high disclosure quality ex-post. These results suggest that as investors’ information sets align, so does their bargaining power with dealers.
+
+[Government Financial Disclosures: The Timeliness of State Comprehensive Annual Financial Reports](http://scholars.unh.edu/cgi/viewcontent.cgi?article=1270&context=honors)
+
+[Does timeliness of financial information matter in the
+governmental sector?](https://sci-hub.bz/https://doi.org/10.1016/j.jaccpubpol.2017.02.002)
+
+[The effects of GAAP regulation and bond market interaction on local government disclosure](https://sci-hub.bz/https://doi.org/10.1016/j.jaccpubpol.2003.11.002)
+
+[Government-wide Financial Statements and Credit Risk](http://sci-hub.cc/10.1111/j.1540-5850.2011.01003.x)
+
