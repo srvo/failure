@@ -10,7 +10,7 @@ The Institutional Failure Index collects estimates of losses that society is bea
 
 | Section | Datapoint | Sources | Mean 
 | --- | --- | --- | --- | --- |
-| [Fraud](fraud.md) | Percentage of Spending | 3 | 5.37% |
+| [Fraud](fraud.md) | Percentage of Spending | 4 | 5.22% |
 | [Pollution](pollution.md) | --- | --- | --- |
 | [Hunger](hunger.md) | --- | --- | --- |
 | [Fractionalization](fractionalization.md) | --- | --- | --- |
