@@ -18,11 +18,7 @@ These payments are a meaningful proportion of total government spending every ye
 
 The disclosures issued by various branches of the federal government are [usefully aggregated](https://paymentaccuracy.gov/) to allow for exploration. 
 
-Reported improper payment rates vary significantly by agency. 
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/iveCU"><a href="//imgur.com/iveCU"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-Part of this variance is because of differences in the how these agencies approach reporting. 
+Reported improper payment rates vary significantly by agency. Part of this variance is because of differences in the how these agencies approach reporting. 
 
 In 2016, the United States Government Accountability Office [noted](http://www.gao.gov/assets/680/678154.pdf) "For several years, GAO has reported that the federal government is unable to determine the full extent to which improper payments occur and reasonably ensure that actions are taken to reduce them," in part because 15 of the 24 agencies shown above are [not in full compliance](http://www.gao.gov/assets/680/678154.pdf) with IPERA criteria.  
 
