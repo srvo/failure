@@ -11,7 +11,7 @@ The Institutional Failure Index collects estimates of losses that society is bea
 | Section | Datapoint | Sources | Mean 
 | --- | --- | --- | --- | --- |
 | [Fraud](fraud.md) | Percentage of Spending | 4 | 5.22% |
-| [Pollution](pollution.md) | Global welfare losses | 2 | $4.86 Trillion |
+| [Pollution](pollution.md) | Annual global welfare loss | 2 | $4.86 Trillion |
 | [Hunger](hunger.md) | --- | --- | --- |
 
 ### Forward Looking Costs
