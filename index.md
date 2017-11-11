@@ -4,7 +4,9 @@ Society's resources are allocated regressively. This creates a set of difficulti
 
 If fraud, pollution, hunger, and similar forces were stocks or interest rates, every credible finding and forecast related to them would be aggregated continuously. They could be tied together, making it easier to see the "big picture."
 
-The Institutional Failure Index is an attempt to do that. It aggregates credible estimates, summarizes their conclusions, and hopefully makes constructive action easier. 
+The Institutional Failure Index is an attempt to connect numbers to our understanding of [Institutional Failure](institutionalfailure.md). It aggregates credible estimates, summarizes their conclusions, and hopefully makes constructive action easier. 
+
+Your help and interest are both appreciated. [Submit a pull request](https://github.com/srvo/failure/pulls), sign up [for brief, interesting emails](http://eepurl.com/c-hM25), and read [Sloane's blog](http://srvo.org/) for more information. 
 
 ### Annual Losses
 
@@ -17,7 +19,7 @@ The Institutional Failure Index is an attempt to do that. It aggregates credible
 ### Forward Looking Costs
 
 | Section | Datapoint | Sources | Mean |
-| Climate Change | --- | ---| --- |
+| [Climate Change](climate.md) | --- | ---| --- |
 
 ### Confounding Developments
 
@@ -33,4 +35,3 @@ The Institutional Failure Index is an attempt to do that. It aggregates credible
 
 * Things you can do
 
-Your help and interest are both appreciated. [Submit a pull request](https://github.com/srvo/failure/pulls), sign up [for brief, interesting emails](http://eepurl.com/c-hM25), and read [Sloane's blog](http://srvo.org/) for more information. 
