@@ -14,7 +14,7 @@ Your help and interest are both appreciated. [Submit a pull request](https://git
 | --- | --- | --- | --- | --- |
 | [Fraud](fraud.md) | Percentage of Spending | 4 | 5.22% |
 | [Pollution](pollution.md) | Annual global welfare loss | 2 | $4.86 Trillion |
-| [Hunger](hunger.md) | --- | --- | --- |
+| [Hunger](hunger.md) | Cost to US Economy | 4 | $224.6 Billion |
 
 ### Forward Looking Costs
 
@@ -30,8 +30,14 @@ Your help and interest are both appreciated. [Submit a pull request](https://git
 
 * [Improper Payments](improper.md)
 * Weak financial [reporting](reporting.md)
+* [Corruption](corruption.md)
+* [Fractionalization](fractionalization.md)
 
-### Things you can do
+### Further Context 
 
-* Things you can do
+* [Why do cities grow?](growth.md)
+
+### Future work
+
+* [Miscellaneous notes](misc.md)
 
