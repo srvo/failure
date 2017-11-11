@@ -29,7 +29,7 @@ Your help and interest are both appreciated. [Submit a pull request](https://git
 ### Sources of Friction
 
 * [Improper Payments](improper.md)
-* Weak financial [reporting](reporting.md)
+* [Weak financial reporting](reporting.md)
 * [Corruption](corruption.md)
 * [Fractionalization](fractionalization.md)
 
