@@ -1,10 +1,10 @@
-## How Much Improvement is Possible?
+## The Institutional Failure Index
 
-As a regular part of their work, institutions create credible estimates. These data can be found, but are not really seen. 
+Society's resources are allocated regressively. This creates a set of difficulties that are hard to recognize and even harder to counteract.
 
-If fraud, pollution, or climate change were stocks or interest rates, every credible finding and forecast related to them would be aggregated continuously and presented according to some kind of standard. 
+If fraud, pollution, hunger, and similar forces were stocks or interest rates, every credible finding and forecast related to them would be aggregated continuously. They could be tied together, making it easier to see the "big picture."
 
-The Institutional Failure Index collects estimates of losses that society is bearing as a result of these and other forces. 
+The Institutional Failure Index is an attempt to do that. It aggregates credible estimates, summarizes their conclusions, and hopefully makes constructive action easier. 
 
 ### Annual Losses
 

@@ -12,7 +12,9 @@ A [February 2017 analysis](http://www.pewtrusts.org/en/research-and-analysis/ana
 
 > States’ recovery from tax revenue losses since the onset of the recession has varied widely.  In seven of the 27 states in which tax revenue had recovered by the second quarter of 2016, receipts were more than 15 percent higher than at their inflation-adjusted peak before or during the recession. Conversely, collections in five of the 23 states with below-peak tax revenue were down 15 percent or more, after adjusting for inflation.
 
-These unprecedented revenue declines come as many cities still have not regained firm financial footing since the financial crisis. [A 2017 Survey](http://nlc.org/sites/default/files/2017-09/NLC%20City%20Fiscal%20Conditions%202017.pdf) from the National League of Cities shows that general fund revenues still have not recovered since the 2007 recession, and stood at 97.7% of 2006 levels. General funds are used to support cities' general operations and represent 55% of total city spending on average. 
+These unprecedented revenue declines come as many cities still have not regained firm financial footing since the financial crisis. 
+
+[A 2017 Survey](http://nlc.org/sites/default/files/2017-09/NLC%20City%20Fiscal%20Conditions%202017.pdf) from the National League of Cities shows that general fund revenues still have not recovered since the 2007 recession, and stood at 97.7% of 2006 levels. General funds are used to support cities' general operations and represent 55% of total city spending on average. 
 
 Cities represent one of the bright spots. The National Association of Counties [2016 economic report](http://www.naco.org/resources/county-economies-2016-widespread-recovery-slower-growth#profiles) describes the growing disparity between rural and urban:  
 
