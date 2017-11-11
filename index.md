@@ -15,6 +15,11 @@ Your help and interest are both appreciated. [Submit a pull request](https://git
 | [Fraud](fraud.md) | Percentage of Spending | 4 | 5.22% |
 | [Pollution](pollution.md) | Annual global welfare loss | 2 | $4.86 Trillion |
 | [Hunger](hunger.md) | Cost to US Economy | 4 | $224.6 Billion |
+| [Obesity] | --- | --- | --- |
+| [Drug Abuse] | --- | --- | --- |
+| [Poverty] | --- | --- | --- |
+| [Mental Health] | --- | --- | --- |
+| --- | --- | --- | --- |
 
 ### Forward Looking Costs
 
