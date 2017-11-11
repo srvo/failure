@@ -1,4 +1,4 @@
-#What Is Institutional Failure?
+## What Is Institutional Failure?
 
 The tidiest definition of failure is the opposite of success. 
 
