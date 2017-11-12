@@ -2,9 +2,9 @@
 
 Society's resources are allocated regressively. This creates a set of difficulties that are hard to recognize and even harder to counteract.
 
-If fraud, pollution, hunger, and similar forces were stocks or interest rates, every credible finding and forecast related to them would be aggregated continuously. They could be tied together, making it easier to see the "big picture."
+If fraud, pollution, hunger, and similar forces were stocks or interest rates, every credible finding and forecast related to them would be aggregated continuously. Analyzing their individual costs in relation to each other is a productive way to better understand [institutional failure](institutionalfailure.md), which is often described but difficult to fully see. 
 
-The Institutional Failure Index is an attempt to connect numbers to our understanding of [Institutional Failure](institutionalfailure.md). It aggregates credible estimates, summarizes their conclusions, and hopefully makes constructive action easier. 
+The Institutional Failure Index aggregates credible estimates, summarizes their conclusions, and hopefully makes constructive action easier. 
 
 Your help and interest are both appreciated. [Submit a pull request](https://github.com/srvo/failure/pulls), sign up [for brief, interesting emails](http://eepurl.com/c-hM25), and read [Sloane's blog](http://srvo.org/) for more information. 
 
