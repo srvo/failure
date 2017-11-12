@@ -12,13 +12,13 @@ Your help and interest are both appreciated. [Submit a pull request](https://git
 
 | Section | Datapoint | Sources | Mean 
 | --- | --- | --- | --- | --- |
-| [Fraud](fraud.md) | Percentage of Spending | 4 | 5.22% |
+| [Fraud](fraud.md) | Percentage of spending | 4 | 5.22% |
 | [Pollution](pollution.md) | Annual global welfare loss | 2 | $4.86 Trillion |
-| [Hunger](hunger.md) | Cost to US Economy | 4 | $224.6 Billion |
-| [Obesity] | --- | --- | --- |
-| [Drug Abuse] | --- | --- | --- |
-| [Poverty] | --- | --- | --- |
-| [Mental Health] | --- | --- | --- |
+| [Hunger](hunger.md) | Cost to US economy | 4 | $224.6 Billion |
+| [Obesity] | Cost to US economy | --- | --- |
+| [Drug Abuse] | Cost to US economy | --- | --- |
+| [Poverty] | Cost to US economy | --- | --- |
+| [Mental Health] | Cost to US economy | --- | --- |
 | --- | --- | --- | --- |
 
 ### Forward Looking Costs
