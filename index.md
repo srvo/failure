@@ -1,10 +1,8 @@
 ## The Institutional Failure Index
 
-Society's resources are allocated regressively, which leads to difficulty and cost. 
+Society's resources are allocated regressively, which leads to difficulty and cost. If those costs had anything close to the information transparency of financial markets, collective action might get more enlightened and efficient. 
 
-If threats to social welfare had anything close to the information transparency of financial markets, collective action might get more enlightened and efficient. Long-term hurt is happening in the meantime because it's hard to describe. 
-
-[Institutional Failure](institutionalfailure.md) -- where multiple organizations succumb to inflexibility, inefficiency, and inadequacy in service of their community -- is a tricky phenomenon to counteract. 
+Long-term hurt is happening in the meantime because it's hard to describe. [Institutional Failure](institutionalfailure.md) -- where multiple organizations succumb to inflexibility, inefficiency, and inadequacy -- is a tricky phenomenon to counteract. 
 
 It's easier to count. Hunger, poverty, pollution, and fraud all lead to cash costs. Credible research on these costs has been published. The Institutional Failure Index categorizes, presents, and averages their findings. 
 
