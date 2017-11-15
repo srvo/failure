@@ -1,12 +1,14 @@
 ## The Institutional Failure Index
 
-Society's resources are allocated regressively. This creates a set of difficulties that are hard to recognize and even harder to counteract.
+Society's resources are allocated regressively, which leads to difficulty and cost. 
 
-If fraud, pollution, hunger, and similar forces were stocks or interest rates, every credible finding and forecast related to them would be aggregated continuously. 
+If threats to social welfare had 1/100th the information transparency of financial markets, collective action might get more enlightened and efficient. 
 
-Analyzing their individual costs in relation to each other is a productive way to better understand [institutional failure](institutionalfailure.md), which is often described but difficult to fully see. 
+Long-term hurt is happening in the meantime because it's hard to describe. [Institutional Failure](institutionalfailure.md) - where multiple organizations succumb to inflexibility, inefficiency, and inadequacy in service of their community - is a tricky phenomenon to counteract. 
 
-Your help pulling in more credible estimates and interest in their findings are both appreciated. [Submit a pull request](https://github.com/srvo/failure/pulls), sign up [for brief, interesting emails](http://eepurl.com/c-hM25), and read [Sloane's blog](http://srvo.org/) for more information. 
+The purpose of the Institutional Failure Index is to aggregate credible information about the cost of business as usual. 
+
+Your help pulling in more information and interest in their findings are both appreciated. [Submit a pull request](https://github.com/srvo/failure/pulls), sign up [for brief, interesting emails](http://eepurl.com/c-hM25), and read [Sloane's blog](http://srvo.org/) for more information. 
 
 ### Annual Losses
 
