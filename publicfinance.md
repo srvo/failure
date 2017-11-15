@@ -30,6 +30,6 @@ These challenges have not gone unnoticed by municipal analysts. PNC's Tom Kozlik
 
 
 #### Further Reading
-[Will pensions and opebs break state and local budgets](http://crr.bc.edu/wp-content/uploads/2016/10/slp_51.pdf)
-[How have municipal bond markets reacted to pension reform?](http://crr.bc.edu/wp-content/uploads/2017/10/slp_57.pdf)
-[Municipal Borrowing Costs and State Policies for Distressed Municipalities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2845515)
+* [Will pensions and opebs break state and local budgets](http://crr.bc.edu/wp-content/uploads/2016/10/slp_51.pdf)
+* [How have municipal bond markets reacted to pension reform?](http://crr.bc.edu/wp-content/uploads/2017/10/slp_57.pdf)
+* [Municipal Borrowing Costs and State Policies for Distressed Municipalities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2845515)
