@@ -4,6 +4,10 @@ The tidiest definition of failure is the opposite of success. Institutional Fail
 
 The purpose of this project is to add more granularity to our understanding of this phenomena, but an understanding already exists and has been vocalized. Here are some thoughtful descriptions. 
 
+TBA: thought from 
+
+  Gabriel Petek, a municipal bond analyst at Standard And Poor’s, wrote in April 2017 that changes in demographics and the economy have left “institutions inadequate” to correct against financial excess.
+
 #### *The Wire* Creator David Simon, [Sept 05 2007](https://kottke.org/07/09/summer-news-regarding-the-wire):
 
 "The Wire is a Greek tragedy in which the postmodern institutions are the Olympian forces. It’s the police department, or the drug economy, or the political structures, or the school administration, or the macroeconomics forces that are throwing the lightning bolts and hitting people in the ass for no reason. 
