@@ -4,9 +4,9 @@ Society's resources are allocated regressively, which leads to difficulty and co
 
 Long-term hurt is happening in the meantime because it's hard to describe. [Institutional Failure](institutionalfailure.md) -- where multiple organizations succumb to inflexibility, inefficiency, and inadequacy -- is a tricky phenomenon to counteract. 
 
-It's easier to count. Hunger, poverty, pollution, and fraud all lead to cash costs. Credible research on these costs has been published. The Institutional Failure Index categorizes, presents, and averages their findings. 
+It's easier to count. Hunger, poverty, pollution, and fraud all lead to cash costs. Credible research on these costs has been published. The Institutional Failure Index categorizes, presents, and averages their findings. These costs occur in the context of a [public finance](publicfinance.md) crisis, which deepens their long-term effect. 
 
-It's an open-source project in early development. Your help pulling in more information and interest are both appreciated. [Submit a pull request](https://github.com/srvo/failure/pulls), sign up [for brief, interesting emails](http://eepurl.com/c-hM25), and read [Sloane's blog](http://srvo.org/) for more information. 
+This open-source project will do its best to track them. Your help pulling in more information and interest are both appreciated. [Submit a pull request](https://github.com/srvo/failure/pulls), sign up [for brief, interesting emails](http://eepurl.com/c-hM25), and read [Sloane's blog](http://srvo.org/) for more information. 
 
 ### Annual Losses
 
@@ -23,11 +23,6 @@ It's an open-source project in early development. Your help pulling in more info
 
 | Section | Datapoint | Sources | Mean |
 | [Climate Change](climate.md) | --- | ---| --- |
-
-### Confounding Developments
-
-* A looming [public finance](publicfinance.md) crisis.
-*    
 
 ### Sources of Friction
 
