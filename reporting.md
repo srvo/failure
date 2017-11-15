@@ -1,3 +1,5 @@
+## this post is a draft. 
+
 There are currently no national standards for financial reporting among cities, counties, and states.
 
 This creates significant risk, and there is evidence that the lack of transparency has been exploited.
