@@ -12,6 +12,7 @@ Poverty $500 billion 2007* Holzer, 2007
 * If not otherwise specified, we have assumed the years’ dollars are the same as the
 publication year 
 
+
 Via [Economic Cost of Domestic Hunger](http://us.stop-hunger.org/files/live/sites/stophunger-us/files/HungerPdf/Cost%20of%20Domestic%20Hunger%20Report%20_tcm150-155150.pdf)
 
 Mental health 

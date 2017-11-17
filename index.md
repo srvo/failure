@@ -1,12 +1,10 @@
 ## The Institutional Failure Index
 
-Society's resources are allocated regressively, which leads to difficulty and cost. If those costs had anything close to the information transparency of financial markets, collective action might get more enlightened and efficient. 
+The Institutional Failure Index presents the total costs to society of problems that our governments, businesses, and civil society groups have collectively failed to address.  
 
-Long-term hurt is happening in the meantime because it's hard to describe. [Institutional Failure](institutionalfailure.md) -- where multiple organizations succumb to inflexibility, inefficiency, and inadequacy -- is a tricky phenomenon to counteract. 
+Individual estimates of these costs commonly make headlines, but until now they have not been added up and made available for easy exploration. The cost of "business as usual" emerges quickly once we can see the breadth of [Institutional Failure](institutionalfailure.md) in modern society. 
 
-It's easier to count. Hunger, poverty, pollution, and fraud all lead to cash costs. Credible research on these costs has been published. The Institutional Failure Index categorizes, presents, and averages their findings. These costs occur in the context of a [public finance](publicfinance.md) crisis, which deepens their long-term effect. 
-
-This open-source project will do its best to track them. Your help pulling in more information and interest are both appreciated. [Submit a pull request](https://github.com/srvo/failure/pulls), sign up [for brief, interesting emails](http://eepurl.com/c-hM25), and read [Sloane's blog](http://srvo.org/) for more information. 
+Did we miss something? [Submit a pull request](https://github.com/srvo/failure/pulls) to add your insights to this open-source project. You can also sign up [for brief, interesting emails](http://eepurl.com/c-hM25), and read [Sloane's blog](http://srvo.org/) for more information. 
 
 ### Annual Losses
 
