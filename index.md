@@ -1,6 +1,6 @@
 ## The Institutional Failure Index
 
-The Institutional Failure Index presents the total costs to society of problems that our governments, businesses, and civil society groups have collectively failed to address.  
+The Institutional Failure Index presents the total costs to society of problems that governments, businesses, and civil society groups have collectively failed to address.  
 
 Individual estimates of these costs commonly make headlines, but until now they have not been added up and made available for easy exploration. The cost of "business as usual" emerges quickly once we can see the breadth of [Institutional Failure](institutionalfailure.md) in modern society. 
 
