@@ -6,20 +6,21 @@ Individual estimates of these costs commonly make headlines, but until now they 
 
 Did we miss something? [Submit a pull request](https://github.com/srvo/failure/pulls) to add your insights to this open-source project. You can also sign up [for brief, interesting emails](http://eepurl.com/c-hM25), and read [Sloane's blog](http://srvo.org/) for more information. 
 
-### Annual Losses
+### Costs to the United States Economy
 
 | Section | Datapoint | Sources | Mean 
 | --- | --- | --- | --- | --- |
-| [Fraud](fraud.md) | Percentage of spending | 4 | 5.22% |
-| [Pollution](pollution.md) | Annual global welfare loss | 2 | $4.86 Trillion |
 | [Hunger](hunger.md) | Cost to US economy | 4 | $224.6 Billion |
 | [Poverty] | Cost to US economy | --- | --- |
 | [Mental Health] | Cost to US economy | --- | --- |
 | --- | --- | --- | --- |
 
-### Forward Looking Costs
+### Costs to the World Economy
 
-| Section | Datapoint | Sources | Mean |
+| Section | Datapoint | Sources | Mean 
+| --- | --- | --- | --- | --- |
+| [Fraud](fraud.md) | Percentage of spending | 4 | 5.22% |
+| [Pollution](pollution.md) | Annual global welfare loss | 2 | $4.86 Trillion |
 | [Climate Change](climate.md) | --- | ---| --- |
 
 ### Sources of Friction
