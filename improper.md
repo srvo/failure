@@ -30,7 +30,8 @@ Each of the top ten programs are critical components of the American social safe
 
 Medicare FFS reported improper payments of $41 Billion in FY 2016, 11% of their $374 Billion in outlays. The program is sometimes called [Original Medicare](https://www.cms.gov/Medicare/Eligibility-and-Enrollment/OrigMedicarePartABEligEnrol/index.html), and covered 38.2 million Americans in September 2017 according to the [Medicare Enrollment Dashboard](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/CMSProgramStatistics/Dashboard.html). 
 
-The Department of Health and Human Services wrote "the most common cause of improper payments (accounting for 64.1 percent of total improper payments) was lack of documentation to support the services or supplies billed to Medicare. In other words, the CERT contractor reviewers could not conclude that the billed services were actually provided, were provided at the level billed, and/or were medically necessary" in their In their [2016 Improper Payments Report](https://www.cms.gov/Research-Statistics-Data-and-Systems/Monitoring-Programs/Medicare-FFS-Compliance-Programs/CERT/Downloads/MedicareFeeforService2016ImproperPaymentsReport.pdf).
+The Department of Health and Human Services wrote In their [2016 Improper Payments Report](https://www.cms.gov/Research-Statistics-Data-and-Systems/Monitoring-Programs/Medicare-FFS-Compliance-Programs/CERT/Downloads/MedicareFeeforService2016ImproperPaymentsReport.pdf): 
+> "the most common cause of improper payments (accounting for 64.1 percent of total improper payments) was lack of documentation to support the services or supplies billed to Medicare. In other words, the CERT contractor reviewers could not conclude that the billed services were actually provided, were provided at the level billed, and/or were medically necessary." 
 
 ### Medicaid
 
@@ -40,8 +41,6 @@ Medicaid reported improper payments of $36 Billion in FY 2016, 10.5% of their $3
 
 ### Earned Income Tax Credit
 
-The Earned Income Tax Credit program reported $16.8 billion in improper payments in 2016, 24% of their $69.8 billion in total outlays. 
-
-Restructuring the EITC [was suggested](https://taxpayeradvocate.irs.gov/Media/Default/Documents/2016-ARC/ARC16_Volume1_LR_02_TaxReform.pdf) by the IRS Taxpayer Advocate in 2016. 
+The Earned Income Tax Credit program reported $16.8 billion in improper payments in 2016, 24% of their $69.8 billion in total outlays. This is likely a result of the innate complexity of the program's administration. Restructuring the EITC [was suggested](https://taxpayeradvocate.irs.gov/Media/Default/Documents/2016-ARC/ARC16_Volume1_LR_02_TaxReform.pdf) by the IRS Taxpayer Advocate in 2016. 
 
 The Council on Budget and Policy Priorities [noted that](https://www.cbpp.org/research/federal-tax/reducing-overpayments-in-the-earned-income-tax-credit) "The EITC is one of the most complex elements of the tax code that individual taxpayers face. The IRS instructions for the credit are nearly twice as long as the 13 pages of instructions for the Alternative Minimum Tax, which is widely viewed as difficult"
