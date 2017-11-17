@@ -1,16 +1,12 @@
 ## Hunger
 
-These sources indicate that around [fraction] of [Hunger] is [connector] to hunger every year. 
+These four sources indicate that hunger costs the United States economy around $224.6 billion a year.  
 
 | Datapoint | Source | Value | Type | Year |
 | Foregone GDP Growth | [The Perryman Group](https://www.perrymangroup.com/wp-content/uploads/Perryman-Hunger-Report.pdf) | $461.9 billion | Estimate | 2014 |
 | Minimum Total Cost Burden  | [Brown, Shephard, Martin, & Orwat 2007](http://us.stop-hunger.org/files/live/sites/stophunger-us/files/HungerPdf/Cost%20of%20Domestic%20Hunger%20Report%20_tcm150-155150.pdf) | $90 Billion | Minimum Cost Estimate | 2007 |
 | Costs Attributable to Food Insecurity and Hunger, 2014  |[2016 Hunger Report](http://www.bread.org/sites/default/files/downloads/cost_of_hunger_study.pdf) | $179 Billion | Estimate | 2014 |
 | Hunger in America: Suffering we All Pay For  | [Shepard, Setren, and Cooper 2011](https://www.americanprogress.org/wp-content/uploads/issues/2011/10/pdf/hunger_paper.pdf) | $167.5 Billion | Estimate | 2010 |
-
-
-
-Harvard-based Physician Task Force on Hunger in America announced the results of its research and field investigations in half the states of the nation (Physician Task Force on Hunger in America, 1985). They reported that the number of Americans afflicted by hunger was more than 20 million. Their report led to significant national news coverage and, as in 1968
 
 
 
