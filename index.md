@@ -2,9 +2,9 @@
 
 The Institutional Failure Index presents the total costs to society of problems that governments, businesses, and civil society groups have collectively failed to address.  
 
-Individual estimates of these costs commonly make headlines, but until now they have not been added up and made available for easy exploration. The cost of "business as usual" emerges quickly once we can see the breadth of [Institutional Failure](institutionalfailure.md) in modern society. 
+Individual estimates of these costs commonly make headlines, but until now they have not been added up and made available for easy exploration. The cost of "business as usual" emerges quickly once we can see the breadth of [institutional failure](institutionalfailure.md) in modern society. 
 
-Did we miss something? [Submit a pull request](https://github.com/srvo/failure/pulls) to add your insights to this open-source project. You can also sign up [for brief, interesting emails](http://eepurl.com/c-hM25), and read [Sloane's blog](http://srvo.org/) for more information. 
+Did we miss something? [Submit a pull request](https://github.com/srvo/failure/pulls) to add your input to this open-source project. You can also sign up [for brief, interesting emails](http://eepurl.com/c-hM25), and read [Sloane's blog](http://srvo.org/) for more information. 
 
 ### Costs to the United States Economy
 
