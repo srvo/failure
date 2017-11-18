@@ -1,3 +1,10 @@
+Pollution imposes significant costs on the global economy, amounting to about $4.86 Trillion every year. 
+
+| Datapoint | Source | Value | Type | Year | 
+| Global Welfare Loss | *[The Lancet]*(http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(17) | Study | 2017 | 
+| Global Welfare Loss | [The World Bank](http://documents.worldbank.org/curated/en/781521473177013155/pdf/108141-REVISED-Cost-of-PollutionWebCORRECTEDfile.pdf) | Study | 2016 | 
+
+
 *The Lancet* commision on pollution and health [estimates](http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(17)32345-0.pdf) that pollution was responsible for 16% of all deaths worldwide in 2015. Their survey, released in October 2017, further shows: 
 
 * Pollution-related diseases cause productivity losses that reduce GDP in low to middle-income countries by up to 2% per year. 
