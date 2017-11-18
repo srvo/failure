@@ -28,11 +28,7 @@ Did we miss something? [Submit a pull request](https://github.com/srvo/failure/p
 * [Corruption](corruption.md)
 * [Fractionalization](fractionalization.md)
 
-### Further Context 
-
-* [Why do cities grow?](growth.md)
-
 ### Future work
 
+* [todo](todo.md)
 * [Miscellaneous notes](misc.md)
-
