@@ -1,7 +1,7 @@
 Pollution imposes significant costs on the global economy, amounting to about $4.86 Trillion every year. 
 
 | Datapoint | Source | Value | Type | Year | 
-| Global Welfare Loss | *[The Lancet]*(http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(17) | Study | 2017 | 
+| Global Welfare Loss | [The Lancet](http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-673617) | Study | 2017 | 
 | Global Welfare Loss | [The World Bank](http://documents.worldbank.org/curated/en/781521473177013155/pdf/108141-REVISED-Cost-of-PollutionWebCORRECTEDfile.pdf) | Study | 2016 | 
 
 
