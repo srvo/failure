@@ -4,7 +4,7 @@ Measuring the cost of incarceration is difficult, because costs are both direct 
 
 | Datapoint | Source | Value | Type | Year | 
 | Total Spending | [Who Pays? The True Cost of Incarceration on Families](http://ellabakercenter.org/sites/default/files/downloads/who-pays.pdf) | $80 Billion | Federal and State Spending | 2015 | 
-| Full Cost | The Economic Burden of Incarceration in the U.S.](https://advancingjustice.wustl.edu/SiteCollectionDocuments/The%20Economic%20Burden%20of%20Incarceration%20in%20the%20US.pdf) | $1.014 Trillion | Study | 2016 |
+| Full Cost | [The Economic Burden of Incarceration in the U.S.](https://advancingjustice.wustl.edu/SiteCollectionDocuments/The%20Economic%20Burden%20of%20Incarceration%20in%20the%20US.pdf) | $1.014 Trillion | Study | 2016 |
 | State Spending | [2015 Estimate of spending on incarceration](https://storage.googleapis.com/vera-web-assets/downloads/Publications/price-of-prisons-2015-state-spending-trends/legacy_downloads/the-price-of-prisons-2015-state-spending-trends.pdf) | $42.89 Billion | Survey | 2016 |
 
 #### Institute for Advancing Justice Research and Innovation
