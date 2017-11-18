@@ -1,3 +1,5 @@
+This is a lower priority topic as of 17 november 2017. 
+
 These sources indicate that around [fraction] of [metric] is [connector] to [topic] every year. 
 
 | Datapoint | Source | Value | Type | Year
