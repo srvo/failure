@@ -12,6 +12,7 @@ Did we miss something? [Submit a pull request](https://github.com/srvo/failure/p
 | --- | --- | --- | --- | --- |
 | [Hunger](hunger.md) | Cost to US economy | 4 | $224.6 Billion |
 | [Incarceration](incarceration.md) | Cost to US economy | 3 | $378.96 Billion |
+| [Traffic](traffic.md) | Cost to US economy | 4 | $162.85 Billion |
 
 ### Costs to the World Economy
 

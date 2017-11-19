@@ -1,6 +1,6 @@
 ## Sections to be completed
 
-- [ ] **Traffic** [Measuring the economic costs of traffic congestion](http://ieeexplore.ieee.org/document/7980471/?reload=true)
+- [x] **Traffic** [Measuring the economic costs of traffic congestion](http://ieeexplore.ieee.org/document/7980471/?reload=true)
 - [ ] **Opioids** [The economic costs of pain](https://www.ncbi.nlm.nih.gov/books/NBK92521/)
 - [ ] **Education** [economic cost of educational attainment gap](https://www.mckinsey.com/industries/social-sector/our-insights/the-economic-cost-of-the-us-education-gap)
 - [ ] **Conservation** [economic costs and benefits of conservation](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0040360), [economic costs of failing to protect the environment](https://www.camecon.com/news/872/), [who bears the economic costs of environmental regulations?](https://works.bepress.com/don_fullerton/80/)
