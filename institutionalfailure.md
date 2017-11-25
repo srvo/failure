@@ -31,3 +31,8 @@ Many policy initiatives of the 1990s — deregulation, privatization, new pu
 "[States] continue to benefit from certain inherent advantages that result in mostly high credit ratings. Among these are self-imposed controls against financial excess, such as balanced-budget requirements and limits on borrowing. We shouldn’t forget that states adopted these restraints in response to a series of debt crises from 1840 through the 1880s.
  
 To this day, these fiscal institutions remain important pillars underneath states’ credit standings. The states’ co-sovereign status and fiscal integration with the federal government has also protected them in tough economic times. Now, however, demographic and macroeconomic shifts are creating stress that, for some states, render these institutions inadequate."
+
+#### Umair Haque [October 18, 2017](https://medium.com/bad-words/how-autocracy-rises-cde907695e7bs)
+
+"The job of institutions, properly understood, is to safeguard something that does not exist at all: human possibility itself. It is a hard job, often a thankless job, this business of shielding the unborn from the unworthy. And yet it is in that truest way that institutions can be said to fail. When they surrender human possibility itself to those who would destroy, ruin, or ensnare it, whether they enact that surrender by omission or commission, whether through negligence or malfeasance, then they can be judged, rightly, to have failed at their truest task, their authentic responsibility, not just to society, which is an abstraction, but to the possibility in you and I, in our children, and in the future. These do not exist yet. But they are not abstractions. They are lived realities, love and truth and beauty and defiance and grace, waiting to be born.""
+
