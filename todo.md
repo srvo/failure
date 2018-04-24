@@ -11,5 +11,5 @@
 * Opioids [Rand](https://www.rand.org/randeurope/research/projects/untreated-opioid-dependence.html)
 - [ ] Deepen incarceration reserarch [costs of barriers to employment for former prisoners](http://cepr.net/publications/reports/the-price-we-pay-economic-costs-of-barriers-to-employment-for-former-prisoners-and-people-convicted-of-felonies)
 - [ ] Gender Inequality [The economic costs of gender inequality in europe](https://www.ceps.eu/publications/inef%EF%AC%81cient-inequality-economic-costs-gender-inequality-europe) [gender-based discrimination in social institutions](https://www.oecd.org/dev/development-gender/SIGI_cost_final.pdf)
-
+- [ ] perception [the cost of being black](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1838491)
 

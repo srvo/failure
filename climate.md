@@ -11,3 +11,5 @@ A [paper](https://www.eenews.net/assets/2015/01/13/document_cw_01.pdf) from Fran
 *  In a "business as usual" scenario, average annual growth rate in poor regions is cut from 3.2% to 2.6%, which means that by 2100 per-capita GDP is 40% below reference. 
 * Widely used [DICE](https://yosemite.epa.gov/ee/epa/eerm.nsf/vwan/ee-0564-114.pdf/$file/ee-0564-114.pdf) models do not adequately account for the ongoing cost of climate change.
 * The social cost of carbon should be estimated in the context of these ongoing costs. 
+
+The [IEA](https://insideclimatenews.org/news/20140915/only-1-trillion-annual-investment-goal-puts-climate-solutions-within-reach) puts the present cost of climate change at 1.3% of global economic output
